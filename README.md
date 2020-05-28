@@ -40,6 +40,8 @@ Author: Akinsaya Delamarre
 Email: adelamarre@remote-learner.net
 
 
+SUBMIT EXITING MEETING FOR THE GIVEN MOODLE COURSE
+=========================================
 ```sql
 # Enter the below variables value
 SET @course = 4;
